@@ -2,7 +2,7 @@
 
 <h3 align="center">Aiming to inspire through software</h3>
 
-<div style="display:flex;justify-content:center;">
+<div align="center">
  <a href="https://twitter.com/saisumith15" target="blank"><img src="https://img.shields.io/twitter/follow/saisumith15?logo=twitter&style=for-the-badge" alt="saisumith15" /></a>
 
 <a style="margin-left:10px;" href="https://www.linkedin.com/in/sai-sumith-a2b0061b5/" target="blank"><img src="https://img.shields.io/twitter/follow/saisumith?logo=linkedin&style=for-the-badge" alt="saisumith15" /></a>
@@ -48,8 +48,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <div style="display:flex;flex-wrap:wrap;justify-content:space-between">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saisumith770&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisumith770&show_icons=true&locale=en&layout=compact&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="saisumith770" /></p>
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=saisumith770&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisumith770&show_icons=true&locale=en&layout=compact&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="saisumith770" /></p>
   </div>
 
-<img align="center" style="position:relative;top:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=saisumith770" alt="saisumith770" /></p>
+<img align="center" width="100%" style="position:relative;top:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=saisumith770" alt="saisumith770" /></p>
