@@ -1,4 +1,5 @@
-<h1 align="center">Sai Sumith</h1>
+[![Header](https://raw.githubusercontent.com/saisumith770/saisumith770/master/readme_header.png "Header")](https://martinheinz.dev/)
+
 <h3 align="center">Aiming to inspire through software</h3>
 
 <div style="display:flex;justify-content:center;">
@@ -7,8 +8,6 @@
 <a style="margin-left:10px;" href="https://www.linkedin.com/in/sai-sumith-a2b0061b5/" target="blank"><img src="https://img.shields.io/twitter/follow/saisumith?logo=linkedin&style=for-the-badge" alt="saisumith15" /></a>
 
 </div>
-
-[![Header](https://raw.githubusercontent.com/saisumith770/saisumith770/master/readme_header.png "Header")](https://martinheinz.dev/)
 
 - 🔭 Core member @ BlueDes studios
 
