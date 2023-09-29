@@ -15,7 +15,8 @@
 
 - 📫 reach me at **saisumith812@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 📞 Connect with me
+
 <p align="left">
 <a href="https://twitter.com/saisumith15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saisumith15" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sai-sumith-a2b0061b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisumith" height="30" width="40" /></a>
