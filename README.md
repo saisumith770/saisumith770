@@ -52,4 +52,4 @@
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisumith770&show_icons=true&locale=en&layout=compact&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="saisumith770" /></p>
   </div>
 
-<img align="center" width="100%" style="position:relative;top:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=saisumith770" alt="saisumith770" /></p>
+<div align="center"><img style="position:relative;top:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=saisumith770" alt="saisumith770" /></div>
