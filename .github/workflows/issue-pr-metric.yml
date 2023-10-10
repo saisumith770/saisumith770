@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: lowlighter/metrics@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
