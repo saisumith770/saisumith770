@@ -46,19 +46,11 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## :zap: Recent Activity 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/cloudinary-community/cloudinary-examples/issues/78#issuecomment-1754316340) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-2. 💪 Opened PR [#94](https://github.com/cloudinary-community/cloudinary-examples/pull/94) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-3. 🗣 Commented on [#78](https://github.com/cloudinary-community/cloudinary-examples/issues/78#issuecomment-1753370747) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-4. 🗣 Commented on [#111](https://github.com/nikoksr/notify/issues/111#issuecomment-1751939797) in [nikoksr/notify](https://github.com/nikoksr/notify)
-5. 💪 Opened PR [#715](https://github.com/nikoksr/notify/pull/715) in [nikoksr/notify](https://github.com/nikoksr/notify)
-6. 💪 Opened PR [#6222](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/6222) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-7. 🗣 Commented on [#6217](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/6217#issuecomment-1750088931) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-8. 💪 Opened PR [#6218](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/6218) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-9. ❗ Opened issue [#6217](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/6217) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-10. 🗣 Commented on [#457](https://github.com/nikoksr/notify/issues/457#issuecomment-1749655487) in [nikoksr/notify](https://github.com/nikoksr/notify)
-<!--END_SECTION:activity-->
+![](https://raw.github.com/saisumith770/saisumith770/master/metrics.plugin.followup.svg)
+---
+![](https://raw.github.com/saisumith770/saisumith770/master/metrics.plugin.activity.svg)
+---
+![](https://raw.github.com/saisumith770/saisumith770/master/metrics.plugin.leetcode.svg)
 
 ## &#x1f4c8; GitHub Stats
 
