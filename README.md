@@ -46,6 +46,10 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+## Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## &#x1f4c8; GitHub Stats
 
 <div style="display:flex;flex-wrap:wrap;justify-content:space-between">
