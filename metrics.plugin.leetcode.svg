@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x64</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x68</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x28</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x23</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x23</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x24</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x24</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x18</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x18</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x17</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x13</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x12</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x12</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x9</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x10</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
