@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x129</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x130</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x50</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x42</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x38</span></div>
@@ -72,7 +72,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x29</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x28</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x28</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x24</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x25</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
