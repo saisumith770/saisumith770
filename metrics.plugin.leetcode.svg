@@ -63,13 +63,13 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x211</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x87</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x78</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x214</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x88</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x79</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x57</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x54</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x47</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x40</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x49</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x41</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x39</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x36</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x33</span></div>
